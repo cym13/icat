@@ -1,0 +1,40 @@
+Description
+===========
+
+Simply display images in terminal using w3mimgdisplay.
+
+This is an adaptation of: http://blog.z3bra.org/2014/01/images-in-terminal.html
+
+Why icat?
+=========
+
+Cause it's fun. Why else?
+
+Documentation
+=============
+
+Usage: icat PATH
+
+Arguments:
+    PATH    Path or URL to the file to display.
+
+Dependencies
+============
+
+w3mimgdisplay
+
+License
+=======
+
+This program is under the GPLv3 License.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+Contact
+=======
+
+Main developper: Cédric Picard
+Email:           cedric.picard@efrei.net
+Twitter:         @Cym13
+GPG:             383A 76B9 D68D 2BD6 9D2B  4716 E3B9 F4FE 5CED 42CB
